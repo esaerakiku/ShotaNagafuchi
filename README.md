@@ -1,6 +1,6 @@
 # shotanagafuchi.com
 
-Shota Nagafuchi (長渕 翔太) のパーソナルサイト。
+Shota Nagafuchi のパーソナルサイト。
 極ミニマル・シングルページ・依存なしのプレーンHTML。
 
 ## ファイル構成
